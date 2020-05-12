@@ -22,6 +22,7 @@
 3. 概念部分
 
    - checkpoints: 只包含模型使用的参数
+   - image shape in PyTorch: batch_size * channel * height * width
 
 4. Deep learning
 
