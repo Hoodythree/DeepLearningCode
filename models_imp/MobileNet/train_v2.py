@@ -4,7 +4,8 @@ from torchvision import transforms, datasets
 import json
 import os
 import torch.optim as optim
-from model import MobileNetV2
+# from model import MobileNetV2
+import torchvision.models.mobilenet
 
 
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
