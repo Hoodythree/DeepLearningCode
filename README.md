@@ -11,3 +11,7 @@
 - [ ] Inception
 - [ ] ResNet
 
+#### 3. attention blocks
+- [x] CBAM: Convolutional Block Attention Module
+- [x] SENet
+
